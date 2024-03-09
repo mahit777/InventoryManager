@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InventoryCalculator
 build_property.ProjectDir = /Users/matty/development/Tahar-Bundles-DotNet/InventoryCalculator/InventoryCalculator/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
