@@ -20,6 +20,8 @@ The project is organized into several folders:
 
 To run this project, you will need .NET 7.0 installed on your machine. Once you have that, you can clone this repository and run the project using the `dotnet run` command in the terminal.
 
-## Contributing
 
-If you want to contribute to this project, please feel free to fork the repository, make your changes, and then submit a pull request.
+## Prerequisites
+
+- .NET 7.0
+- Local PostgreSQL database and change connection string in context accordingly.
