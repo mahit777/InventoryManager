@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{A62969F9-3C78-45B5-AEBA-EF9F6B14E7FE}|Default">
+  <MonoDevelop.Ide.ItemProperties.InventoryCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tests FirstBuild="True" />
+</Properties>

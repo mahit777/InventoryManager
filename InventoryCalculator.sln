@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryCalculator", "InventoryCalculator\InventoryCalculator.csproj", "{A62969F9-3C78-45B5-AEBA-EF9F6B14E7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{DEDCBDAC-A338-4BF3-827E-994E1CDF1474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A62969F9-3C78-45B5-AEBA-EF9F6B14E7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62969F9-3C78-45B5-AEBA-EF9F6B14E7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62969F9-3C78-45B5-AEBA-EF9F6B14E7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62969F9-3C78-45B5-AEBA-EF9F6B14E7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDCBDAC-A338-4BF3-827E-994E1CDF1474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDCBDAC-A338-4BF3-827E-994E1CDF1474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDCBDAC-A338-4BF3-827E-994E1CDF1474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDCBDAC-A338-4BF3-827E-994E1CDF1474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {195D06D7-6148-4435-A7AC-8AFEAE87A131}
+	EndGlobalSection
+EndGlobal
